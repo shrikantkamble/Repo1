@@ -1,1 +1,2 @@
 feature2 content
+2nd line
